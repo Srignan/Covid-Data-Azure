@@ -1,0 +1,9 @@
+{
+	"name": "Covid-reporting-Sri",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "23712572-0e37-48e8-9f66-e35e42d7592c",
+		"tenantId": "bb932f15-ef38-42ba-91fc-f3c59d5dd1f1"
+	}
+}
