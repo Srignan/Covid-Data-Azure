@@ -14,6 +14,9 @@
 		"ls_adls_reportingdl_properties_typeProperties_url": {
 			"value": "https://covidreportingsridl.dfs.core.windows.net/"
 		},
+		"tr_ingest_population_data_properties_typeProperties_scope": {
+			"value": "/subscriptions/13f7a9a9-0be4-4f51-9fe5-5fb2df8d77c2/resourceGroups/Covid-reporting/providers/Microsoft.Storage/storageAccounts/covidreportingsri"
+		},
 		"containerUri": {
 			"value": ""
 		},
